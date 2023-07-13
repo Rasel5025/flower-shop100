@@ -1,0 +1,153 @@
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 30px 200px 0px 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+    max-width: 500px;
+}
+.flower{
+color: #55484c;
+
+}
+.paragraph{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+   text-align: center;
+}
+.btn-primary{
+border-radius: 5px;
+background: #111010;
+border:0;
+color: white;
+font-size: 20px;
+font-weight: 700;
+padding: 15px 35px;
+}
+.header-picture{
+    background-image:url('imag/2.png') ;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
+
+
+
+/*main*/
+
+.text{
+text-align: center;
+}
+.pk{
+    display: flex;
+    padding: 35px 400px;
+    gap: 25px;
+
+}
+.pic{
+    width: 350px;
+    height: 450px; 
+    background-repeat: no-repeat;
+    background-image: url('imag/3.png');
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    padding: 70px 30px 30px 30px;
+}
+
+.pic1{
+  width: 350px;
+  height: 450px;
+  background-repeat: no-repeat;
+  background-image: url('imag/pngwing\ 5.png');
+  background: rgba(5, 151, 160, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  padding: 70px 30px 30px 30px;
+
+}
+
+.pic2{
+width: 350px;
+height: 450px;
+background-repeat: no-repeat;
+background-image: url('imag/1.png');
+background: rgba(71, 125, 17, 0.15);
+border-radius:300px 300px 0px 0px;
+padding: 70px 30px 30px 30px;
+}
+
+.pak{
+    width: 347px;
+
+}
+.pak1{
+height: 450px;
+width: 350px;
+}
+
+.pak2{
+
+    width: 320px;
+}
+
+
+.ick{
+    display: flex;
+    background-color:#ee2f69;
+    gap: 50px;
+    padding: 50px 500px;
+    margin: 30px 250px;
+}
+
+
+
+
+
+
+.section{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    padding: 30px 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ftt{
+
+    background-color: #ee2f69;
+    color: antiquewhite;
+}
+
+.footer{
+    max-width: 1140px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
